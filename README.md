@@ -1,2 +1,2 @@
-# LendingClub_rep
-Classification Project
+# Classification-Lending Club Loan Approval
+
